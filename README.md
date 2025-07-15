@@ -1,7 +1,7 @@
 # Project: KPA Backend Assignment
 
-#  Setup Instructions
-# Clone the repository
+#Setup Instructions
+#Clone the repository
 git clone https://github.com/yourusername/kpa_backend.git
 cd kpa_backend
 
