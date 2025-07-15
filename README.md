@@ -32,13 +32,6 @@ docker-compose up --build
 4. Access the API docs
 Open your browser at http://localhost:8000/docs
 
-## Tech Stack
-Python 3.11
-FastAPI
-PostgreSQL
-Docker & Docker Compose
-SQLAlchemy
-Pydantic
 
 ## Implemented APIs
 Method	    Endpoint	                    Description
